@@ -1,8 +1,8 @@
 <h1>Hello! I´m Maria João!</h1>
 
-💻 Currently studying in Austria <br>
+💻 Currently working as a Production Planning Technician <br>
 👩🏻‍🎓 Bachelor's Degree in Industrial Engineering and Management <br>
-🌺 FrontEnd Developer <br>
+🌺 Data analysis and prediction, operational research, database management <br>
 
 <div>
   <a href="https://github.com/mariajoaomotaa">
